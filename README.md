@@ -84,7 +84,7 @@ FastAPI --> Output
 # Repository Structure
 
 ```
-Automated-Site-Analysis-API/
+Automated-Spatial-Intelligence-System-API/
 │
 ├── app.py
 ├── render.yaml
